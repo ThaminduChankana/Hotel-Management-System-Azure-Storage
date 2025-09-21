@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Id>3a146b34-2f4f-4ab9-a6fe-7103adf7c1b3</Id>
+    <Username>user</Username>
+    <Email>user@gmail.com</Email>
+    <Password>qAKLW3tdjpF0C5rnFydWnA==:TQsueGPOdWeV6kquEo4w+Pz3AB/I8bCM0AiowR7Cvuw=</Password>
+    <Role>User</Role>
+    <CreatedAt>2025-08-12T04:55:37.245977Z</CreatedAt>
+    <IsActive>true</IsActive>
+  </User>
+  <User>
+    <Id>a4cce510-0e04-4b04-ae92-61410793af39</Id>
+    <Username>admin</Username>
+    <Email>admin@gmail.com</Email>
+    <Password>MVj/s5Az3w9/6FlkYzt/TA==:iqPmP2tA317EYzAQr6iywcOvOwO5F0ngtDnKgKTzabw=</Password>
+    <Role>Admin</Role>
+    <CreatedAt>2025-08-12T04:56:21.927547Z</CreatedAt>
+    <IsActive>true</IsActive>
+  </User>
+</Users>
